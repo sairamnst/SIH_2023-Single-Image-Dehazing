@@ -2,10 +2,10 @@
 
 ## The provided file contains the following files:
 
-     1.best.pt which is the weights for the people detection model we trained using YOLO v8 people detection algorithm and a custom hand-made dataset of more than 500 images of people in different postures and different weather conditions.
-     2.camera_360.py is our combined codebase of the implementation of our idea using a 360 degree camera, which detects people beyond our field of vision and gives sound alerts if they are in the left or right of our field of vision.
-     3.left.mp3, right.mp3 audio files which is used in the 360 degree camera to intimate the position of people beyond our field of vision.
-     4.normal_camera.py which is the implementation of our code without a 360 degree camera but rather a normal camera which has the same functionality as camera_360.py but can't detect people beyond our field of vision.
+1.best.pt which is the weights for the people detection model we trained using YOLO v8 people detection algorithm and a custom hand-made dataset of more than 500 images of people in different postures and different weather conditions.
+2.camera_360.py is our combined codebase of the implementation of our idea using a 360 degree camera, which detects people beyond our field of vision and gives sound alerts if they are in the left or right of our field of vision.
+3.left.mp3, right.mp3 audio files which is used in the 360 degree camera to intimate the position of people beyond our field of vision.
+4.normal_camera.py which is the implementation of our code without a 360 degree camera but rather a normal camera which has the same functionality as camera_360.py but can't detect people beyond our field of vision.
 
 camera_360.py is the main codebase of our idea implementation and not normal_camera.py.
 normal_camera.py is just given here to emphasise on the impact that a 360 degree camera could have compared to a normal camera during fire rescue operations and extraction missions.
