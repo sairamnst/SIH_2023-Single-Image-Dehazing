@@ -1,5 +1,7 @@
 # SIH_2023-Single-Image-Dehazing  
 
+## Project Video: [Click Here](https://drive.google.com/file/d/1eCYnvHReuRdkymBJpMJQVNkQZkzI6PMI/view) 
+
 ## The provided file contains the following files:  
 
 1.best.pt which is the weights for the people detection model we trained using YOLO v8 people detection algorithm and a custom hand-made dataset of more than 500 images of people in different postures and different weather conditions.  
